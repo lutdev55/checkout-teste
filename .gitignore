@@ -1,0 +1,13 @@
+vendor
+
+assets/invoice
+assets/css/*
+!assets/css/demo.scss
+!assets/css/demo.css
+
+assets/js/*
+!assets/js/create-invoice.js
+
+pages/invoice.php
+
+settings.php
